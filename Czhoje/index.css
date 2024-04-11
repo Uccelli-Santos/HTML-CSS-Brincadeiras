@@ -1,0 +1,29 @@
+body {
+    background-color: #ffcccc;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    color: #ff3366;
+}
+
+#sim{
+    font-size: 20px;
+    color: #333;
+    background-color: #ffcccc;
+    border: none;
+}
+
+#nao {
+    font-size: 20px;
+    color: #333;
+    background-color: #ffcccc;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+}
